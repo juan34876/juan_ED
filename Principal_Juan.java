@@ -35,7 +35,7 @@ public class Principal_Juan {
 		System.out.println("diferencia: "+diferencia);
 		System.out.println("Perímetro del círculo: " + perimetroCirculo);
         System.out.println("Perímetro del rectángulo: " + perimetroRectangulo);
-		//////
+		////////
 	      
 
 
