@@ -26,7 +26,7 @@ public class Principal_Juan {
 		System.out.println("cuadrado: "+rectangulo1);
 		System.out.println("circulo: "+circulo1);
 		System.out.println("diferencia: "+diferencia);
-		
+		/////
 		
 	}
 }
