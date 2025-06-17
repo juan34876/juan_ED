@@ -40,7 +40,7 @@ public void setColor(String color) {
 }
 @Override
 public String toString() {
-	return "Delafuente_Rectangulo [Id=" + Id + ", ladoA=" + ladoA + ", ladoB=" + ladoB + ", Color=" + Color + "]";
+	return "Delafuente_Rectangulo [Id=" + Id + ", ladoA=" + ladoA + ", ladoB=" + ladoB + ", Color=" + Color + "]" ;
 }
 
  

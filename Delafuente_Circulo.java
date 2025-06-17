@@ -42,7 +42,7 @@ public class Delafuente_Circulo {
 	}
 	@Override
 	public String toString() {
-		return "Delafuente_Circulo [id=" + id + ", nombre=" + nombre + ", color=" + color + ", radio=" + radio + "]";
+		return "Delafuente_Circulo [id=" + id + ", nombre=" + nombre + ", color=" + color + ", radio=" + radio + "]" ;
 	}
 	
 
