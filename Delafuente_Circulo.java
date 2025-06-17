@@ -6,16 +6,18 @@ public class Delafuente_Circulo {
 	private String nombre;
 	private String color ;
 	private double radio;
-	public Delafuente_Circulo() {
+
+	public Delafuente_Circulo(int i, String string) {
 		super();
 	}
-	public Delafuente_Circulo(int id, String nombre, String color, double radio) {
+
+	public Delafuente_Circulo(String nombre, String color, double radio) {
 		super();
-		this.id = id;
 		this.nombre = nombre;
 		this.color = color;
 		this.radio = radio;
 	}
+
 	public int getId() {
 		return id;
 	}
