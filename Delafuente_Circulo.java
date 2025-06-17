@@ -1,5 +1,10 @@
 package ordina;
 
+/**
+ * @author juan.de10
+ * @version 1.3
+ *  Esta clase se usa para la definicion de unas variables usadas posteriormente en la creación de un objeto
+ */
 public class Delafuente_Circulo {
 
 	private int id;

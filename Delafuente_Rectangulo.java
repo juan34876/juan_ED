@@ -1,5 +1,10 @@
 package ordina;
 
+/**
+ * @author juan.de10
+ * @version 1.33
+ * en esta clase se crean las variables usadas para crear un objeto rectangulo
+ */
 public class Delafuente_Rectangulo {
  private int Id;
  private double ladoA;
